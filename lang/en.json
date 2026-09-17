@@ -1,0 +1,16 @@
+{
+  "ACT.Settings.Enabled.Name": "Enable Advanced Combat Triggers",
+  "ACT.Settings.Enabled.Hint": "Enable or disable automatic hostile visibility and disposition triggers for this world.",
+  "ACT.Settings.SeenAction.Name": "Newly Seen Hostile Action",
+  "ACT.Settings.SeenAction.Hint": "What should happen when the first player newly perceives a hostile token?",
+  "ACT.Settings.DispositionAction.Name": "Visible Token Becomes Hostile",
+  "ACT.Settings.DispositionAction.Hint": "What should happen when a token changes to Hostile while at least one player can see it?",
+  "ACT.Settings.IncludePlayers.Name": "Add Player-Owned Tokens to Combat",
+  "ACT.Settings.IncludePlayers.Hint": "When starting combat automatically or from the prompt, add tokens owned by active non-GM players on the same scene along with the triggering hostile token.",
+  "ACT.Settings.Debug.Name": "Debug Logging",
+  "ACT.Settings.Debug.Hint": "Write detailed Advanced Combat Triggers messages to the browser developer console.",
+  "ACT.Settings.Actions.Prompt": "Ask the GM",
+  "ACT.Settings.Actions.Pause": "Pause the game",
+  "ACT.Settings.Actions.Combat": "Start combat",
+  "ACT.Settings.Actions.PausePrompt": "Pause, then ask the GM"
+}

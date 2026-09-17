@@ -1,0 +1,38 @@
+{
+  "id": "advanced-combat-triggers",
+  "title": "Advanced Combat Triggers",
+  "description": "Automatically reacts when players newly perceive hostile tokens or when visible tokens become hostile, with GM-authoritative pause and combat controls.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Jeremy Davison",
+      "url": "https://github.com/jeremyrobertdavison"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351",
+    "maximum": "13"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/advanced-combat-triggers.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "url": "https://github.com/jeremyrobertdavison/advanced-combat-triggers",
+  "manifest": "https://github.com/jeremyrobertdavison/advanced-combat-triggers/releases/latest/download/module.json",
+  "download": "https://github.com/jeremyrobertdavison/advanced-combat-triggers/releases/download/v1.0.0/advanced-combat-triggers.zip",
+  "readme": "README.md",
+  "license": "LICENSE",
+  "bugs": "https://github.com/jeremyrobertdavison/advanced-combat-triggers/issues",
+  "changelog": "https://github.com/jeremyrobertdavison/advanced-combat-triggers/blob/main/CHANGELOG.md"
+}

@@ -1,0 +1,11 @@
+.advanced-combat-triggers-dialog {
+  min-width: 360px;
+}
+
+.advanced-combat-triggers-dialog p {
+  margin: 0 0 0.75rem;
+}
+
+.advanced-combat-triggers-dialog p:last-child {
+  margin-bottom: 0;
+}
